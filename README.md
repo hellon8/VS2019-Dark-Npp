@@ -1,7 +1,7 @@
 # VS2019-Dark-Npp
 Visual Studio 2019 Dark Theme for Notepad++
 
-This is loose replica of the Visual Studio 2019's Dark theme in Notepad++. It was created to ease switching between files opened in Visual Studio and Notepad++. It is actually just enhanced from https://github.com/cydh/VS2015-Dark-Npp (credits also to original version https://github.com/SeanCline/Npp-VS2012-Dark) to improve reading, increasing contrast to a comfortable level and differing more keyword types.
+This is a loose replica of the Visual Studio 2019's Dark theme in Notepad++. It was created to ease switching between files opened in Visual Studio and Notepad++. It is actually just enhanced from https://github.com/cydh/VS2015-Dark-Npp (credits also to original version https://github.com/SeanCline/Npp-VS2012-Dark) to improve reading, increasing contrast to a comfortable level and differing more keyword types.
 
 Installation
 --------------------------
