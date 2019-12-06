@@ -17,4 +17,4 @@ Installation
 
 Screenshot
 ----------
-![Screenshot](https://github.com/hellon8/VS2019-Dark-Npp/blob/master/screenshot.png "Screenshot")
+![Screenshot](https://github.com/hellon8/VS2019-Dark-Npp/blob/master/Screenshot.png "Screenshot")
