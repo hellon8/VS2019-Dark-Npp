@@ -1032,7 +1032,7 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="GARBAGE" styleID="18" fgColor="333333" bgColor="F18C96" fontName="" fontStyle="2" fontSize="" />
         </LexerType>
         <LexerType name="javascript.js" desc="JavaScript" ext="">
-            <WordsStyle name="DEFAULT" styleID="11" fgColor="DCDCCC" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="DEFAULT" styleID="11" fgColor="E1E1E1" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="INSTRUCTION WORD" styleID="5" fgColor="E67DDC" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
             <WordsStyle name="TYPE WORD" styleID="16" fgColor="65C9FE" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="type1" />
             <WordsStyle name="WINDOW INSTRUCTION" styleID="19" fgColor="FFCFAF" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="instre2" />
