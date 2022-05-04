@@ -17,8 +17,6 @@ Installation
 
 Screenshot
 ----------
-XML
-![Screenshot](https://github.com/hellon8/VS2019-Dark-Npp/blob/master/Screenshots/xml.png "XML")
 JSON
 ![Screenshot](https://github.com/hellon8/VS2019-Dark-Npp/blob/master/Screenshots/json.png "JSON")
 CSV (For this, you will need the [`CSV Lint`](https://github.com/BdR76/CSVLint) plugin)
@@ -27,6 +25,8 @@ Javascript
 ![Screenshot](https://github.com/hellon8/VS2019-Dark-Npp/blob/master/Screenshots/javascript.png "Javascript")
 HTML
 ![Screenshot](https://github.com/hellon8/VS2019-Dark-Npp/blob/master/Screenshots/html.png "HTML")
+XML
+![Screenshot](https://github.com/hellon8/VS2019-Dark-Npp/blob/master/Screenshots/xml.png "XML")
 PowerShell
 ![Screenshot](https://github.com/hellon8/VS2019-Dark-Npp/blob/master/Screenshots/PowerShell.png "PowerShell")
 C#
