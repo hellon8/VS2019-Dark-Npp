@@ -1400,7 +1400,7 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
         <WidgetStyle name="Global override" styleID="0" fgColor="F1F2F3" bgColor="1E1E1E" fontName="Consolas" fontStyle="0" fontSize="10" />
         <WidgetStyle name="Default Style" styleID="32" fgColor="F0F0F0" bgColor="1E1E1E" fontName="Consolas" fontStyle="0" fontSize="11" />
         <WidgetStyle name="Indent guideline style" styleID="37" fgColor="696969" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
-        <WidgetStyle name="Brace highlight style" styleID="34" fgColor="000000" bgColor="80FF80" fontName="" fontStyle="1" fontSize="" />
+        <WidgetStyle name="Brace highlight style" styleID="34" fgColor="FFFFFF" bgColor="00698C" fontName="" fontStyle="1" fontSize="" />
         <WidgetStyle name="Bad brace colour" styleID="35" fgColor="FFFFFF" bgColor="CA0000" fontName="" fontStyle="0" fontSize="" />
         <WidgetStyle name="Current line background colour" styleID="0" bgColor="0F0F0F" fgColor="DCDCDC" fontStyle="0" fontSize="" />
         <WidgetStyle name="Mark colour" styleID="0" fgColor="DCDCDC" bgColor="264F78" fontStyle="0" />
