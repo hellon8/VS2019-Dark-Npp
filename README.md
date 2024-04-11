@@ -6,8 +6,14 @@ This is a loose replica of the Visual Studio 2019's Dark theme in Notepad++. It 
 Installation
 --------------------------
 0. (Optional) If you haven't already, turn on Notepad++ dark mode in *Preferences -> Dark Mode* to a better look and feel.
+
+Method 1
+1. Clone the entire project into a folder in your file system
+2. Right click install.bat and run it as administrator.
+
+Method 2
 1. **Right Click** [`HERE`](https://raw.githubusercontent.com/hellon8/VS2019-Dark-Npp/master/VS2019-Dark.xml) and select **Save As** to download the theme.
-2. Go to **%APPDATA%\Notepad++**.
+2. Go to **%programfiles%\Notepad++**.
 3. Open **themes** folder, create a new folder named **themes** if it doesn't exists.
 4. Place downloaded **.xml** file inside the folder.
 2. Restart Notepad++.
